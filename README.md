@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd4176d3-90a0-4b11-abf5-df9e01521478)# jupyterhub-singleuser-base-notebook-octave
+# jupyterhub-singleuser-base-notebook-octave
 
 This is a Dockerfile for a Jupyterhub (singleuser-base-notebook) with additional Octave kernel (version 0.36.0 running GNU Octave 6.4.0)
 
